@@ -1,0 +1,1 @@
+            spaceCounter +=1
